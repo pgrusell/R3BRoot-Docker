@@ -1,4 +1,4 @@
-FROM fairsoft_image
+FROM pablogrusell/fairsoft:latest
 
 WORKDIR /app/FAIRROOT
 
